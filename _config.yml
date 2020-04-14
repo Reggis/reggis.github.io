@@ -28,7 +28,8 @@ twitter_username: mr_r
 github_username:  reggis
 
 # Build settings
-theme: minima
+remote_theme: amitmerchant1990/reverie
+
 
 plugins:
   - jekyll-feed
