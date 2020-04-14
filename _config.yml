@@ -28,7 +28,7 @@ twitter_username: mr_r
 github_username:  reggis
 
 # Build settings
-remote_theme: amitmerchant1990/reverie
+theme: minima
 
 
 plugins:
