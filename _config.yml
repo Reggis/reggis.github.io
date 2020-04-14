@@ -23,7 +23,7 @@ email: reggis2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Bartosz Górski - Fullstack developer, freelancer, writer. Tech and 3D printing geek.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "gorskibartosz.pl" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.gorskibartosz.pl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mr_r
 github_username:  reggis
 
